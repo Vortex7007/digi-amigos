@@ -1,0 +1,1 @@
+password_verify($pass,$row['admin_password'])
